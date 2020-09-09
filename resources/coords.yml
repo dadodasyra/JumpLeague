@@ -1,0 +1,20 @@
+#NE PAS TOUCHER A CE FICHIER, IL SE CREER AUTOMATIQUEMENT VIA LES COMMANDES EN JEU | DONT TOUCH TO THIS FILE
+game1:
+  spawn:
+  arrive:
+  combat:
+  chests: []
+
+game2:
+  spawn:
+  arrive:
+  combat:
+  chests: []
+
+game3:
+  spawn:
+  arrive:
+  combat:
+  chests: []
+
+loottables: []

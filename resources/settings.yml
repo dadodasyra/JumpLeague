@@ -1,0 +1,11 @@
+source: "source" #Monde ou les coffres a copier seront présent
+
+lobby1: "lobby" #monde du lobby de la game #1 etc..
+lobby2: "lobby" #mettre le même nom du monde si jamais tu ne veux pas plusiseurs lobby, ça n'impactera pas le jeu
+lobby3: "lobby"
+
+game1: "game1"
+game2: "game2"
+game3: "game3" #par contre là evite de mettre le meme monde sinon c'est la full merde
+
+secondslaunch: [60, 45, 30, 15, 10, 5, 3, 2, 1] #a chaque fois que les joueurs de la parties seront prévenus du temps avant lancement

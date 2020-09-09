@@ -1,0 +1,46 @@
+prefix: "§b[§aJumpLeague§b] "
+
+fullgame: "§cToutes les games sont pleines"
+joingame: "§aVous avez bien rejoint la partie §b#{number}" #number = le numéro de la game
+leavegame: "§aVous avez quitté la partie §b#{number}"
+
+modulestext: "§b[§aJumpLeague§b] Module n°{num}" #{partie} pour le numéro de partie
+
+timebeforelaunch: "§aLa partie commence dans §b{seconds} §asecondes"
+timercancellaunch: "§aEn attente de joueurs.." #Si jamais le nombre de joueur est passé en dessous de 4 joueurs
+
+gamestart: "§aDébut de la partie"
+titlestart: "§aJumpLeague" #titre sur l'écran lors du launch
+
+moduleannounce: "§aVous avez atteint un module !"
+savefromvoid: "§aVous avez été sauvé du vide !"
+
+firstonjump: "§aFélicitation vous êtes arrivé le premier de la partie !"
+firsttitle: "§aGG !"
+
+combatstart: "§c{first} a été plus rapide que vous au jump, il est premier, le combat est engagé."
+combatstarttitle: "§aCombat !"
+
+playerdeadspectator: "§cVous êtes mort, vous êtes actuellement en spectateur, pour quitter le mode spectateur utiliser le lit dans votre inventaire"
+playerdeadspectatortitle: "§cVous êtes mort !"
+playerdeadannouncement: "§b{player} §eest mort"
+playerdeadlast: "§eIl reste §b{last} §ejoueurs en vie !"
+
+gameenddefeat: "§cVous avez perdu. \n§b[§aJumpLeague§b] §eLe gagnant est §b{winner}§e, il lui restait §b{pv}§e de vie"
+gameendtitledefeat: "§cVous avez perdu."
+
+gameendwin: "§aVous avez gagné !"
+gameendwintitle: "§aGG !"
+
+#scoreboard :
+titlescoreboard: "§c§k|||§r   §bJumpleague   §c§k|||"
+playersscoreboard: "§aJoueurs:   §b{current}§a/§b8"
+
+#avant le début
+waitscoreboard: "§aEn attente de joueurs.."
+
+#pendant le timer de départ
+beforelaunchscoreboard: "§aTimer:    §b{sec} §asecondes"
+
+#pendant la partie & durant le combat
+duringtimescoreboard: "§aTemps: §b{min} §amin, §b{sec} §asec"
